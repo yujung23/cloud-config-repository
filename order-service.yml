@@ -19,5 +19,5 @@ logging:
 
 # cloud cofig 테스트용 설정 값
 custom:
-  message: "현재 설정 메시지 - TEST 환경입니다"
+  message: "변경 메시지 - TEST 환경입니다"
   version: "1.0.0"
